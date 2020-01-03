@@ -1,0 +1,90 @@
+1568761809796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZxIRKlRzZM1E"
+1568761810418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568761810418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568761810419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568761810419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568761813521	Marionette	INFO	Listening on port 35469
+1568761813660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568761823099	Marionette	INFO	Stopped listening on port 35469
+1568762135891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AiVWRBo7OhFe"
+1568762136430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762136431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762136431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762136431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762139282	Marionette	INFO	Listening on port 39653
+1568762139351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762149389	Marionette	INFO	Stopped listening on port 39653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1568762320840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X2bR2HxB9LXv"
+1568762321357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762321357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762321358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762321358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762323985	Marionette	INFO	Listening on port 35333
+1568762324055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762332182	Marionette	INFO	Stopped listening on port 35333
+1568762461779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gopufkrN4mxj"
+1568762462344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762462344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762462345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762462345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762464980	Marionette	INFO	Listening on port 45627
+1568762465027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762473664	Marionette	INFO	Stopped listening on port 45627
+1568762491881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nXB9hCxGXkww"
+1568762492395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762492395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762492396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762492396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762495123	Marionette	INFO	Listening on port 36247
+1568762495218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762503481	Marionette	INFO	Stopped listening on port 36247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1568762539733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O9pYVRKXYae0"
+1568762540256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762540257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762540257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762540257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762543018	Marionette	INFO	Listening on port 44809
+1568762543097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762552061	Marionette	INFO	Stopped listening on port 44809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1568762598391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2gM36rB5ifXc"
+1568762598928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762598929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762601601	Marionette	INFO	Listening on port 40449
+1568762601674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762612223	Marionette	INFO	Stopped listening on port 40449
+1568762636869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JobEp5tr76bw"
+1568762637410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568762637411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568762637411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568762637411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568762640030	Marionette	INFO	Listening on port 36041
+1568762640154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.oddsportal.com/res/x/global-190916072120.js, line 1: unreachable code after return statement
+1568762648379	Marionette	INFO	Stopped listening on port 36041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
