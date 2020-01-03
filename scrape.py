@@ -32,7 +32,10 @@ on_windows = False
 on_linux = False
 
 if platform == 'win32':
+<<<<<<< HEAD
     print("Found windows OS")
+=======
+>>>>>>> 78b3d28dcc3bc5be2c606c3f2a401e2d2d140e12
     on_windows = True
     from selenium import webdriver
     browser = webdriver.Firefox()
@@ -40,7 +43,10 @@ if platform == 'win32':
     response = browser.page_source
     browser.quit()
 elif 'linux' in platform:
+<<<<<<< HEAD
     print("Found linux OS")
+=======
+>>>>>>> 78b3d28dcc3bc5be2c606c3f2a401e2d2d140e12
     on_linux = True
     import dryscrape
     session = dryscrape.Session()
@@ -49,11 +55,14 @@ elif 'linux' in platform:
 else:
     raise RuntimeError('Use a normal fucking operating system you pleb')
 
+<<<<<<< HEAD
 if response:
     print("Got repsonse from the site")
 else:
     print("No response from the site")
 
+=======
+>>>>>>> 78b3d28dcc3bc5be2c606c3f2a401e2d2d140e12
 # Give the raw content of the response to the BeautifulSoup module to make a
 # 'BeautifulSoup' object. That BeautifulSoup object is what is going to do our
 # navigation and return the information we want
@@ -84,9 +93,12 @@ for row in table_rows:
         if not odds:
             continue
         # Append matchup string, and odds to the variable from earlier
+<<<<<<< HEAD
         print(matchup.text.split('-'))
         print(odds[0].text)
         print(odds[1].text)
+=======
+>>>>>>> 78b3d28dcc3bc5be2c606c3f2a401e2d2d140e12
         matchups.append([matchup.text.split('-')[0].strip(), matchup.text.split('-')[1].strip(), float(odds[0].text.strip()), float(odds[1].text.strip())])
         
 # Save the data to a CSV file
@@ -129,4 +141,8 @@ if on_windows:
         for cell in row:
             cell.value = next(values)
 
+<<<<<<< HEAD
     workbook.save(workbook_name)
+=======
+    workbook.save(workbook_name)
+>>>>>>> 78b3d28dcc3bc5be2c606c3f2a401e2d2d140e12
